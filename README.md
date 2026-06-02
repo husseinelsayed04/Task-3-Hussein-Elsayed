@@ -116,8 +116,7 @@ Enter amount: 1000
 Insufficient balance!
 
 ---
-## ⭐ Future Improvements
-
+ ⭐ Future Improvements
 * Add multiple accounts
 * Add login system (PIN)
 * Save data to file or database
