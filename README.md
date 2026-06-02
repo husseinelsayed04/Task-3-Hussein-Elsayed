@@ -61,77 +61,28 @@ git clone <repo-link>
 
 ### 📌 Check Balance
 
-```
-===== ATM MENU =====
-1. Deposit
-2. Withdraw
-3. Check Balance
-4. Exit
-Enter choice: 3
-Current Balance: 1000.0
-```
+<img width="705" height="218" alt="Screenshot 2026-06-02 223426" src="https://github.com/user-attachments/assets/680281ad-42fb-4eff-bf08-8f4339f1991c" />
+
 
 ---
 
 ### 📌 Deposit Money
-
-```
-Enter choice: 1
-Enter amount: 4000
-Deposit successful.
-```
-
----
-
-### 📌 After Deposit
-
-```
-Enter choice: 3
-Current Balance: 5000.0
-```
+<img width="670" height="472" alt="Screenshot 2026-06-02 223522" src="https://github.com/user-attachments/assets/0b8db777-084d-406b-96c8-b7285c1b10f7" />
 
 ---
 
 ### 📌 Withdraw Money
 
-```
-Enter choice: 2
-Enter amount: 5000
-Withdrawal successful.
-```
-
----
-
-### 📌 Balance After Withdrawal
-
-```
-Enter choice: 3
-Current Balance: 0.0
-```
+<img width="687" height="461" alt="Screenshot 2026-06-02 223610" src="https://github.com/user-attachments/assets/1c310c33-3993-4dec-8432-667fb03f5a61" />
 
 ---
 
 ### 📌 Insufficient Balance Handling
+<img width="555" height="246" alt="Screenshot 2026-06-02 223629" src="https://github.com/user-attachments/assets/b8981e52-1576-4e38-a533-99f5e0a00fe3" />
 
-```
-Enter choice: 2
-Enter amount: 1000
-Insufficient balance!
-```
 
 ---
 
-## 📸 Screenshots
-
-> Add your screenshots here after running the program
-
-```
-![ATM Menu](screenshots/menu.png)
-
-![Deposit Example](screenshots/deposit.png)
-
-![Withdraw Example](screenshots/withdraw.png)
-```
 
 ---
 
@@ -163,18 +114,8 @@ Current Balance: 0.0
 Enter choice: 2
 Enter amount: 1000
 Insufficient balance!
-```
 
 ---
-
-## 👨‍💻 Author
-
-* Name: Hussein Elsayed
-* Project: ATM System (Java OOP)
-* Purpose: Practice OOP + Design Structure
-
----
-
 ## ⭐ Future Improvements
 
 * Add multiple accounts
